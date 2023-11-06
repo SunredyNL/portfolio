@@ -1,0 +1,31 @@
+.homepageContainer {
+  display: flex;
+  align-items: center;
+  font-size: 1.5rem;
+}
+.hello {
+  text-align: center;
+  font-size: 2rem;
+}
+.profilePic {
+  height: 50vh;
+  margin-left: 10vw;
+  margin-right: 1vw;
+}
+.edu {
+  font-size: 2rem;
+}
+.about {
+  margin-top: 1vh;
+}
+.techLogo {
+  height: 10vh;
+}
+
+.logos {
+  margin-top: 10vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1vw;
+}

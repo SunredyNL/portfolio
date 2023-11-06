@@ -1,0 +1,17 @@
+.hello {
+  text-align: center;
+  font-size: 2rem;
+}
+.projectsContainer {
+  font-size: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 2vw;
+  justify-content: center;
+  margin-top: 10vw;
+}
+
+.title {
+  font-weight: bold;
+}
