@@ -1,29 +1,51 @@
+body {
+  background-color: #cceeff;
+}
+
+.contact {
+  background-color: #ffcb00;
+  padding: 2rem;
+  width: 30vw;
+  border-radius: 5% 5% 0 0;
+}
+
 .homepageContainer {
   margin-top: 10vh;
   display: flex;
   align-items: center;
   font-size: 1.5rem;
+  background-color: #ffcb00;
+  padding-left: 10vw;
+  width: 100%;
 }
 .hello {
   text-align: center;
   font-size: 2rem;
 }
 .profilePic {
+  background-color: #ffcb00;
   height: 50vh;
   margin-left: 10vw;
-  margin-right: 1vw;
 }
 .edu {
   font-size: 2rem;
+  padding: 2rem;
+  background-color: #ffcb00;
+  border-radius: 0 5% 5% 5%;
 }
 .about {
-  margin-top: 1vh;
+  padding: 2rem;
+  width: 30vw;
+  background-color: #ffcb00;
 }
 .techLogo {
   height: 10vh;
 }
 
 .logos {
+  margin-left: 20vw;
+  width: 60vw;
+  padding: 2rem;
   margin-top: 10vh;
   display: flex;
   justify-content: center;
